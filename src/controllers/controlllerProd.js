@@ -7,7 +7,7 @@ module.exports ={
        
         return res.json({
             msg:'Raiz do servidor',
-            msg:'Porta de uso 3344'
+            msg:'Porta de uso 2020'
         });
         
     }   catch (error) {
